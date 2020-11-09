@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306268609046",
+    "firebase_url": "https://realtime-gelirgider.firebaseio.com",
+    "project_id": "realtime-gelirgider",
+    "storage_bucket": "realtime-gelirgider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306268609046:android:10cb26daaa688f776a7337",
+        "android_client_info": {
+          "package_name": "com.mirza.gelirhesaplayici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306268609046-dc35g9ojib09ia3cascr6f6lnvhve7qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4rc7lCgm97HZ7dybuNZFNqOa66RpeVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306268609046-dc35g9ojib09ia3cascr6f6lnvhve7qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

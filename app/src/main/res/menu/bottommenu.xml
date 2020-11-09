@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_gelir"
+        android:icon="@drawable/geliricon"
+        android:title="Gelir Ekle" />
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/homeicon"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/action_gider"
+        android:icon="@drawable/gidericon"
+        android:title="Gider Ekle" />
+</menu>
